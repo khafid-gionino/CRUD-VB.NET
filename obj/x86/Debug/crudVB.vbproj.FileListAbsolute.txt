@@ -1,0 +1,13 @@
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.vbprojResolveAssemblyReference.cache
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.vbproj.GenerateResource.Cache
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\bin\Debug\crudVB.exe
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\bin\Debug\crudVB.pdb
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\bin\Debug\crudVB.xml
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.Form1.resources
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.Resources.resources
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.exe
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.xml
+D:\AppJNM-CRUD-VBNET-MYSQL\crudVB\obj\x86\Debug\crudVB.pdb
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\tugas 4\crudVB\obj\x86\Debug\crudVB.exe
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\tugas 4\crudVB\obj\x86\Debug\crudVB.xml
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\tugas 4\crudVB\obj\x86\Debug\crudVB.pdb

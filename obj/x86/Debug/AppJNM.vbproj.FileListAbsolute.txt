@@ -1,0 +1,28 @@
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\bin\Debug\AppJNM.exe
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\bin\Debug\AppJNM.pdb
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\bin\Debug\AppJNM.xml
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\bin\Debug\AppJNM.exe
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\bin\Debug\AppJNM.pdb
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\bin\Debug\AppJNM.xml
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\2. Project\0. JNM\Artikel\Project Source Code JNM\AppJNM-CRUD-MYSQL\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.exe
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.xml
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.pdb
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\bin\Debug\AppJNM.exe
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\bin\Debug\AppJNM.pdb
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\bin\Debug\AppJNM.xml
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.vbprojResolveAssemblyReference.cache
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.Form1.resources
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.Resources.resources
+D:\AppJNM-CRUD-VBNET-MYSQL\AppJNM\obj\x86\Debug\AppJNM.vbproj.GenerateResource.Cache
